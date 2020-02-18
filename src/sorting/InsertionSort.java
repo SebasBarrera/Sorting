@@ -1,6 +1,6 @@
 package sorting;
 
-public class IncertionSort extends Sort {
+public class InsertionSort extends Sort {
 
 	@Override
 	public String sort(int[] array) {
