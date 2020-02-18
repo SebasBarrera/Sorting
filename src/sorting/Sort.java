@@ -12,7 +12,8 @@ public abstract class Sort {
 			if (i != array.length -1) {
 				msg += " ";
 			} else {
-				msg += "]";
+				int j = i + 1;
+				msg += "]\n"+j+"steps takeds";
 			}
 		}
 		return msg;

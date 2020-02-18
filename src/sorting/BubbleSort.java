@@ -1,6 +1,14 @@
 package sorting;
 public class BubbleSort extends Sort{
 	
+	/**
+	 * 
+	 */
+	public BubbleSort() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
 	@Override
 	public String sort(int[] array) {
 		String msg = "";

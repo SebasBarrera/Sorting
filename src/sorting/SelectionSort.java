@@ -24,4 +24,12 @@ public class SelectionSort extends Sort {
 		return msg;
 	}
 
+	/**
+	 * 
+	 */
+	public SelectionSort() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
 }

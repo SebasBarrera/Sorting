@@ -1,6 +1,14 @@
 package sorting;
 
 public class InsertionSort extends Sort {
+	
+	/**
+	 * 
+	 */
+	public InsertionSort() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 
 	@Override
 	public String sort(int[] array) {
